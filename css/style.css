@@ -1,0 +1,37 @@
+header {
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    margin-left: 200px;
+    margin-left: 100px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.inputfield {
+    font-size: 50px;
+    border-radius: 20px;
+}
+button {
+    border-radius: 13px;
+}
+aside {
+    position: absolute;
+    top: 120px;
+    right: 100px;
+    width: 500px;
+    height: 230px;
+    border: 3px solid #73AD21;
+    border-radius: 30px;
+    padding-left: none;
+    padding-right: none;
+}
+.name {
+    font-weight: bold;
+}
+p {
+    text-align: center;
+}
+.rumus {
+    font-weight: bold;
+    font-size: 20px;
+}
